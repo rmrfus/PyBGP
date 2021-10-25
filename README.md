@@ -1,6 +1,6 @@
 # PyBGP
 
-PyBGP is a Python / Asyncio based BGP implementation. At this time it fully supports Finite State Machine and its able to open and maintain connectivity to BGP peer in either passive or active mode. Connection collision detection is already implemented so it's able to drop less desired connection if two of them form simultaneously.It can support connectivity to multiple peers at the same time.
+PyBGP is a Python / Asyncio based BGP implementation. At this time it fully supports 'Finite State Machine' and it's able to open and maintain connectivity to BGP peers in either passive or active mode. Connection collision detection is already implemented, so it's able to drop less desired connection if two of them form simultaneously.It can support connectivity to multiple peers at the same time.
 
 
 #### Already implemented:
